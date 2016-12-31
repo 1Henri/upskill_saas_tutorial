@@ -33,6 +33,27 @@
     border: none;
   } 
   
+  // logo button
+ .navbar-default .navbar-brand {
+    color: white;
+  }
+  
+   .navbar-default .navbar-brand:hover {
+    color: white;
+    opacity: 0.75;
+  }
+  
+  // about button
+  .navbar-default .navbar-nav > li > a {
+    color: white;
+  }
+  
+  .navbar-default .navbar-nav > li > a:hover {
+    color: white;
+  opacity: 0.75;
+  }
+  
+  //home callout
   .home-callout {
     color: white;
     margin-top: -20px;
